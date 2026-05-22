@@ -1,7 +1,7 @@
 import google.genai as genai
 import asyncio
 
-GEMINI_API_KEY = "AIzaSyClIAyoPQm63VuiuXmwRBS2ASA2szCvN18"
+GEMINI_API_KEY = 
 
 try:
     client = genai.Client(api_key=GEMINI_API_KEY)
