@@ -4,7 +4,7 @@ from datetime import datetime
 import uuid
 import google.genai as genai
 
-GEMINI_API_KEY = "AIzaSyClIAyoPQm63VuiuXmwRBS2ASA2szCvN18"
+GEMINI_API_KEY = 
 
 try:
     gemini_client = genai.Client(api_key=GEMINI_API_KEY)
