@@ -1,6 +1,6 @@
 import google.genai as genai
 
-API_KEY = "AIzaSyClIAyoPQm63VuiuXmwRBS2ASA2szCvN18"
+API_KEY = 
 
 client = genai.Client(api_key=API_KEY)
 
